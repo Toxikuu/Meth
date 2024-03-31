@@ -7,7 +7,7 @@ I created it to do math problems on my computer (hence the name), but it can als
 ## Compatibility
 This program is not compatible with windows.
 It was made for my personal use on linux, and as such, was only tested on my personal setup.
-It may or may not work for you, but it's not a complicated program.
+It may or may not work for you, but it's not a complicated program, so configuring it to work on your machine should be fairly trivial.
 
 ## Installation
 Installation commands:
