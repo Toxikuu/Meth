@@ -11,11 +11,11 @@ It may or may not work for you, but it's not a complicated program, so configuri
 
 ## Installation
 Installation commands:
-```console
-$ git clone https://github.com/Toxikuu/Meth.git
-$ cd Meth
-$ chmod +x install.sh
-$ ./install.sh
+```bash
+git clone https://github.com/Toxikuu/Meth.git
+cd Meth
+chmod +x install.sh
+./install.sh
 ```
 
 ## Keybinds
